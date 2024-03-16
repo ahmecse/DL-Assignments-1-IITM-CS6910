@@ -1,0 +1,2 @@
+# 2024_DL_Assignment_1
+CS6910_Assignment_1_Feed Forward Neural Network
