@@ -1,6 +1,6 @@
 # Developing Backpropagation from Scratch
 
-In this work, we developed a feedforward neural network from scratch. We have used the gradient descent method and its variants as optimization algorithms with backpropagation to classify images from the Fashion-MNIST dataset. We used "wandb.ai" to perform experiments for hyperparameter tuning.
+In this work, I coded a feedforward neural network from scratch. I have used the gradient descent method and its variants such as `mini_batch_gd`, `momentum_gd`, `nesterov_gd`, `rmsprop`, `adam`, and `nadam`, along with weight initializations such as `Xavier` and `Random`. I also utilized various activation functions including `sigmoid`, `tanh`, `relu`, and `softmax`, as well as loss functions such as `MSE` and `CrossEntropy`. These techniques were applied with backpropagation to classify images from the Fashion-MNIST dataset. I used `wandb.ai` to perform experiments for hyperparameter tuning.
 
 ## Libraries and Their Application
 
