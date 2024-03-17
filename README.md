@@ -57,7 +57,7 @@ fit(X_train,
   11. `lambd` stores the regularization constant for weight decay
   12. `optimization_function` stores the name of the gradient descent algorithm
 
-## Addition of a New Optimization Function
+## Template for Adding a New Optimization Function
 
 We have provided a template for adding an optimization function on similar lines to previous functions. The user needs to add the following code snippets to form a new optimization function:
 1. Declare and initialize dictionaries and other data structures as per the requirement of the optimization function.
